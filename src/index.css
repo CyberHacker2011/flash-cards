@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body, div, html, span, button{
+    box-sizing: border-box;
+}
